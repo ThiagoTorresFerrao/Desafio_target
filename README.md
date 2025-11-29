@@ -1,5 +1,7 @@
 # Desafio Técnico Target SIstemas para a vaga de Desenvolvedor/a de Sistemas Jr.
 
+![DEMO](./assets/img/demo.jpg)
+
 ## Estrutura incluída:
 
 /src - scripts Node.js (desafio1.js, desafio2.js, desafio3.js)
@@ -45,10 +47,9 @@ README.md - este arquivo
 ---
 ---
 
-## 🚀 Live Preview | Demonstração
+## 🚀 Meu Portifólio
 
 🔗 **Acesse o site:** [thiagotorres.dev](https://thiagotorres.dev/)  
-💾 **Código-fonte no GitHub:** [github.com/ThiagoTorresFerrao/Portifolio](https://github.com/ThiagoTorresFerrao/Portifolio)
 
 ---
 ---
@@ -64,6 +65,8 @@ README.md - este arquivo
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiagotorresferrao/)
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Thiago_Torres)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5535997629116)
 
 
 Sinta-se à vontade para entrar em contato para colaborações, oportunidades ou apenas um bate-papo sobre tecnologia.
