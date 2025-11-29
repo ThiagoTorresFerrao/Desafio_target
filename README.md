@@ -1,4 +1,4 @@
-# Desafio Técnico Target SIstemas para a vaga de Desenvolvedor/a de Sistemas Jr.
+# Desafio Técnico Target Sistemas para a vaga de Desenvolvedor/a de Sistemas Jr.
 
 ![DEMO](./assets/img/demo.jpg)
 
