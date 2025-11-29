@@ -23,22 +23,21 @@ README.md - este arquivo
 
 ```text
 /
-├── AllProjects/
-│   ├── allProjects.html
-│   ├── script_allProjects.js
-│   └── style_allProjects.css
-├── Page_under_construction/
-│   ├── Page_under_construction.html
-│   ├── script_puc.js
-│   └── style_puc.css
-├── Portifólio_Thiago_arquivos/
-│   ├── img/
-│   ├── lang.js
-│   ├── remixicon.css
-│   ├── scrollreveal.min.js
+├── assets/
+│   ├── bg01.jpg
+│   ├── favicon.png
+│   └── targetlogo.jpg
+├── data/
+│   ├── estoque.json
+│   └── vendas.json
+├── docs/
+│   ├── app.js
+│   ├── index.html
 │   └── style.css
-├── index.html
-├── menu.js
+├── src/
+│   ├── desafio1.js
+│   ├── desafio2.js
+│   └── desafio3.js
 └── README.md
 
 ```
